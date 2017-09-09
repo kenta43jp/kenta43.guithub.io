@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Saturday is a good day to chill.
+
+I at first planed to visit a city, Tsukishima to explore there and find out whether it is good to live for next 2 yrs.
+But I quit cuz money matters for me. 
